@@ -1,0 +1,2 @@
+--В какие часы и дни недели магазин получает максимальную нагрузку?
+--At what times and on what days of the week does the store experience its highest volume of customers?

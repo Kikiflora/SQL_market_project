@@ -1,0 +1,2 @@
+--Эффективны ли скидки на товары для увеличения прибыли?
+--Are product discounts effective for increasing profits?

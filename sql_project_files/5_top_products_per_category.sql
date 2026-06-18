@@ -1,0 +1,2 @@
+--Какие топ-3 товара являются лидерами продаж внутри каждой категории?
+--What are the top 3 best-selling products in each category?

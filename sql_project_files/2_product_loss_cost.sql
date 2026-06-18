@@ -1,0 +1,2 @@
+--Сколько денег магазин теряет из-за списания и порчи товаров?
+--How much money does the store lose due to write-offs and damaged merchandise?
