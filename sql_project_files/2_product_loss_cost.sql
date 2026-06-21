@@ -29,6 +29,7 @@ FROM
 JOIN products USING (item_code)
 GROUP BY
     products.category_name
+ORDER BY total_loss_money DESC
 
 /* Result / Результат
 [

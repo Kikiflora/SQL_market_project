@@ -10,7 +10,7 @@ WITH inform AS (
     SELECT 
         category_name AS category,
         item_name AS product,
-        SUM(quantity_kg * unit_price) AS revenue,
+        ROUND(SUM(quantity_kg * unit_price), 2) AS revenue,
         ROW_NUMBER() OVER(PARTITION BY category_name 
                           ORDER BY SUM(quantity_kg * unit_price) DESC) as idd
     FROM
